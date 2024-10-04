@@ -1,0 +1,22 @@
+{
+	"appName": "少泽",
+	"appPackageName": "com.szxy.app",
+	"appVersionName": "1.0",
+	"appVersionCode": 1,
+	"data": {		
+		"启用顶栏": false,
+		"顶栏标题": "少泽",
+		"横屏": false,
+		"显示状态栏": false,
+		"启用进度条": false,
+		"支持打开外部应用": true,
+		"提示打开外部应用": true,
+		"启动页面": "index.html"
+	},
+	"indexPages": [
+		
+	],
+	"extraHeaders": {
+		
+	}
+}
